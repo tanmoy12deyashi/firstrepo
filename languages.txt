@@ -9,6 +9,7 @@
 SQL
 1. MySQL
 2. Oracle
+view all [SELECT * FROM StudentNames;]
 
 NoSQL
 1. MongoDB
