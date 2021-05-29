@@ -9,10 +9,11 @@
 SQL
 1. MySQL
 2. Oracle
-BEGIN TRANSACTION transaction_name ;
-SET TRANSACTION [ READ WRITE | READ ONLY ];
-COMMIT;
+view all [SELECT * FROM StudentNames;]
 
+delete [ BEGIN TRANSACTION transaction_name ;
+        SET TRANSACTION [ READ WRITE | READ ONLY ];
+        COMMIT; ]
 
 NoSQL
 1. MongoDB
