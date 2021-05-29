@@ -6,4 +6,7 @@
 6. Javascript
 7. HTML
 
+NoSQL
+1. MongoDB
+2. ElasticSearch
 Thank You :)
