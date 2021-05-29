@@ -6,7 +6,12 @@
 6. Javascript
 7. HTML
 
+SQL
+1. MySQL
+2. Oracle
+
 NoSQL
 1. MongoDB
 2. ElasticSearch
+
 Thank You :)
