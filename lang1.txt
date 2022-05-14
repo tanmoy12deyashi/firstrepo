@@ -20,4 +20,3 @@ NoSQL
 2. ElasticSearch
 
 Thank You :)
-123
