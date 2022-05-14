@@ -1,0 +1,22 @@
+1. Node Js
+2. Python
+3. Java
+4. PHP
+5 C#
+6. Javascript
+7. HTML
+
+SQL
+1. MySQL
+2. Oracle
+view all [SELECT * FROM StudentNames;]
+
+delete [ BEGIN TRANSACTION transaction_name ;
+        SET TRANSACTION [ READ WRITE | READ ONLY ];
+        COMMIT; ]
+
+NoSQL
+1. MongoDB
+2. ElasticSearch
+
+Thank You :)
