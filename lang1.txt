@@ -6,7 +6,7 @@
 6. Javascript
 7. HTML
 8. React
-9. Angular Js
+9. Angular
 
 SQL
 1. MySQL
