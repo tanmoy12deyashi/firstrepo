@@ -5,6 +5,7 @@
 5 C#
 6. Javascript
 7. HTML
+8. React
 
 SQL
 1. MySQL
